@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "da-in-gamedev-3",
+  "private_key_id": "20461027edd2dfc707e9f038d213324b25904182",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCJtAlY/vR2VNL7\n+dm7LbsbGlg1JiYDct/Echxff4PgCcmMc2eNzN22iosrPB015LZtiv+1fhCYiwOC\nbhcTV7MtSD+KBs/sowgX7LVPNexnsxJFNnKgQrP3eIwUgo+Oi/tOmGAKBaEkJtFx\n/oN7j4878JvzL5RWJaVrLGIrEqMKaAIcG8A+cz7cWXO2Rx3PlnRykiijX+aO2cdW\nFla0NCaiT6JIkrKDTxxVvnUERNvAHzqp1qczqGPy3i4owC9pNmXodFNKApCQ51f5\nb6lNiC3L57+JwIbfoX0qc++NLGe6DpzfmRbCYkvI9Wzhglr9a25XIiK0eF7QDs44\n13kMJqVfAgMBAAECggEAQLPxuHmD0J4mzPMnVYY1ZpTIYaDdN72gWyPrJQw7oOe4\nZmBLhht/CiirH9ONPieLeIlZgaQMlECtk3m7KgGJVXufL3Hn/R7VzLgSsXd673b6\n3L6quZbeDSf9Wh3G6onnuZRrfAoNH3mF7HRUv5hDCz0RagEvSBNEWMlwDyEgruBj\np3K5WGxeOfLD7phczsVERADuX0ni7WiTeqo4ptMidl9z/3mtto9V1TWF9TpkoZBG\nanOUIzlJOGQ+0cpaL9F/FLrLfay/p8gU0+z4sHMECjXmPrCQmOjlcQycBt2ZAoHQ\nxG4GbhMboZV4wod93GwlNur8LEcbYZIEKw83qdAw0QKBgQDBckqVUY6PbkA0gJ+/\nq5OcI2Q1dTDx9BsuQOigmOwtoLncnI/uM+516nl5K9Dhwf62v1x/RxJ+lNc7uBLq\nhD7//kii5zXIJ8xsLnLT6B6dm1JxfB60w7lb2FeDAtd66fw6TWBh42Bpy072Flp+\nm9OkqESVZZPZ5oWGXequEqIrBQKBgQC2O0N4FHePNH7rbvJXlJKbT/N0UUexsC4r\n/DU3NBtAxVBz5P4vRGDt8TPD+U3nGu7zl0LRU3nPVvcbwcnRNHo9+ci5vilEAifE\ntCTy0D2l9eAJqb/SMk6Y2ZWSvG5MXXUrd/Hi+dR2GE9nev8n2aMUj31GWhaeNlsx\nohEqeCnkEwKBgEQUDNtv0FP54O6ZNZ8mqtQQQHvvukHsPoSQo02hg7yrC73v+1dB\nP3KQCh/yo5hPxWxa/Bpu0LtrdjO2HDIcSG+e9cEezXabSv3netHIpr2go+r8W3IS\nT3FbObEJlvvSzMlX4cuRUaTpv+grBb346QrRjRFmphnRXrxi4OxR8nBhAoGBAK96\n8CSA6QTQ02tZgiqOGoNPASxAXN6hvkSC8KfBGIFNwIRpvc+8c+6Nd4C+4KKsT+/n\n9+LlFIZxwzFKclJvy0tE7mLW2Jvxy2Pi6TWdC9B1rZEAkoQSB5eu5xbPNxN4Z609\nKoOcelhiXoxSZ8RzElRpPIRzmhYuV7C61PblkclbAoGBAJkTbkT0Rk6RXLhj2wRf\neFEJeO6sdR90DiguLuGMck/3RTEPvmhwdRoV0VhC8pvlpXsj4Am+4n2u15MmRIbE\n277+xSlWT4IyR2ZJNNEJYg3gb5i7ByDOgUG9nJ5cbC5iOUqPmZIaFmuH42Jmvfit\nE+z5qBuFpzWG85iqdMxoDzkc\n-----END PRIVATE KEY-----\n",
+  "client_email": "unityservicedatascience@da-in-gamedev-3.iam.gserviceaccount.com",
+  "client_id": "113589447522738944451",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/unityservicedatascience%40da-in-gamedev-3.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
